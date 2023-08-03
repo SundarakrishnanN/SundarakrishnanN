@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 Welcome to My Profile!
 
-###About Me
+### About Me
 
 Hello there! My name is Sundarakrishnan N, and I'm a passionate Computer Science Engineering student. I am deeply interested in technology and its applications, particularly in the fields of data structures and algorithms,artificial intelligence and web development.Being someone constantly striving to learn and grow, I believe in the power of innovation and teamwork to solve real-world problems.
 
-###Education
+### Education
 
 Bachelor of Technology (B.Tech) in Computer Science Engineering, RV College of Engineering,2026
 
 Programming Languages: Python, Java, C#
 Databases: MySQL
 
-###Projects
+### Projects
 
 Student Performance Analyzer:A Flask website that Im currently working on to assist my college in maintaining student scores and performing further analysis based on various parameters.
 
@@ -39,7 +39,7 @@ Student Performance Analyzer:A Flask website that Im currently working on to ass
 
 [Instant Chess Clock](https://play.google.com/store/apps/details?id=com.Sundarakrishnan.InstantChessClock):A chess clock app which could be used instead of an expensive physical chess clock!
 
-###Extracurricular Activities
+### Extracurricular Activities
 
 Active member of Astra Robotics,RVCE.
 
@@ -47,7 +47,7 @@ Participated in various coding competitons.
 
 Volunteer at Rotoract Club,RVCE
 
-###Contact
+### Contact
 
 📧 Email: sundar050804@gmail.com
 
