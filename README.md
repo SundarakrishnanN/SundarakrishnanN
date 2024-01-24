@@ -21,6 +21,8 @@ Welcome to My Profile!
 Hello there! My name is Sundarakrishnan N, and I'm a passionate Computer Science Engineering student. I am deeply interested in technology and its applications, particularly in the fields of data structures and algorithms,artificial intelligence and web development.Being someone constantly striving to learn and grow, I believe in the power of innovation and teamwork to solve real-world problems.
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundarakrishnann)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
