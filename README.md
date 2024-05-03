@@ -27,9 +27,7 @@ Please contact me at sundar050804@gmail.com if you wish to collaborate.
 ### GitHub Statistics
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundarakrishnann&theme=tokyonight&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sundarakrishnann&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
