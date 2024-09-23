@@ -22,7 +22,7 @@ Hello there! My name is Sundarakrishnan N, and I'm a passionate Computer Science
 
 Please contact me at sundar050804@gmail.com if you wish to collaborate.
 
-[My Profile](https://linktr.ee/sundarakrishnan_n)
+[My Profile]([https://linktr.ee/sundarakrishnan_n](https://www.linkedin.com/in/sundarakrishnan-n/))
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SundarakrishnanN&show_icons=true&theme=transparent)
 
