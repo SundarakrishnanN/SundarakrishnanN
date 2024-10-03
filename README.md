@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 Welcome to My Profile!
 
 ### About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Sundarakrishnan+N!;)](https://git.io/typing-svg)
+<br/>
 
-Hello there! My name is Sundarakrishnan N, and I'm a passionate Computer Science Engineering student. I am deeply interested in technology and its applications, particularly in the fields of data structures and algorithms,artificial intelligence and web development.Being someone constantly striving to learn and grow, I believe in the power of innovation and teamwork to solve real-world problems.
+I'm a passionate Computer Science Engineering student. I am deeply interested in technology and its applications, particularly in the fields of data structures and algorithms,artificial intelligence and web development.Being someone constantly striving to learn and grow, I believe in the power of innovation and teamwork to solve real-world problems.
 
 Please contact me at sundar050804@gmail.com if you wish to collaborate.
 
